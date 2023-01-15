@@ -356,7 +356,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Faurecia_Nissan_RPi_Motor_Controller.kicad_pro",
+    "filename": "Faurecia_Nissan_RPi_Motor_Controller_v2.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -527,6 +527,10 @@
     [
       "bba2504d-5d75-42b4-afa4-2844a3a05bdb",
       "SPI_port"
+    ],
+    [
+      "a8d05f69-28a9-4e3d-be0b-fc1d9fd6757d",
+      "EEPROM"
     ]
   ],
   "text_variables": {}
