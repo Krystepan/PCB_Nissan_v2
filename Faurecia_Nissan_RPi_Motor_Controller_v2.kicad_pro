@@ -513,6 +513,10 @@
       "H_bridge6"
     ],
     [
+      "a6bd1fec-035b-49f2-ac5e-f3fbc5a7dbdd",
+      "Analog_module1"
+    ],
+    [
       "102da5fa-e932-42d4-bf2e-57db71878d93",
       "Current_sense"
     ],
@@ -531,6 +535,10 @@
     [
       "a8d05f69-28a9-4e3d-be0b-fc1d9fd6757d",
       "EEPROM"
+    ],
+    [
+      "573cd8a5-bc1f-4972-85ce-6a9d730f17bd",
+      "Analog_module"
     ]
   ],
   "text_variables": {}
