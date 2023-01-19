@@ -218,6 +218,15 @@
     (uuid eef2a56b-a19a-4265-bcc8-ef3bfe3a45f2)
   )
 
+  (label "RX_RES" (at 138.43 97.79 0)
+    (effects (font (size 0.7 0.7)) (justify left bottom))
+    (uuid a3070bbf-d5b9-461a-9758-ed1ab1577be9)
+  )
+  (label "TX_RES" (at 138.43 95.25 0)
+    (effects (font (size 0.7 0.7)) (justify left bottom))
+    (uuid b3369ce2-3377-4ebb-a581-c14d6f915882)
+  )
+
   (hierarchical_label "RX_OUT" (shape output) (at 160.02 97.79 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 08012dcd-814d-4189-b688-c8bd92167440)

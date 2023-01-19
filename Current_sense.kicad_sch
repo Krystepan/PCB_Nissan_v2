@@ -412,6 +412,11 @@
     (uuid d74a209c-5ead-4cf9-a8b6-075b13b5e8de)
   )
 
+  (label "INA_OUT" (at 139.7 82.55 0)
+    (effects (font (size 0.7 0.7)) (justify left bottom))
+    (uuid 4fb536cf-b281-465d-bc34-3f779b386f6c)
+  )
+
   (hierarchical_label "OUT-" (shape output) (at 104.14 90.17 270)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 2e51479e-c6e8-466e-a626-61ec32d9db9f)
@@ -489,7 +494,7 @@
     (property "Value" "8mR" (id 1) (at 106.68 83.8199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_2512_6332Metric" (id 2) (at 102.362 82.55 90)
+    (property "Footprint" "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder" (id 2) (at 102.362 82.55 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 104.14 82.55 0)

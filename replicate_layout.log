@@ -1,0 +1,20 @@
+01-18 21:53:32 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 312:Plugin executed on: 'win32'
+01-18 21:53:32 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 313:Plugin executed with python version: '3.9.10 (main, Apr 30 2022, 01:39:58) [MSC v.1929 64 bit (AMD64)]'
+01-18 21:53:32 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 314:KiCad build version: (6.0.5)
+01-18 21:53:32 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 315:Plugin version: 1.2.2
+01-18 21:53:32 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 316:Frame repr: <wx._core.Frame object at 0x000002185DA9E3A0>
+01-18 21:53:32 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 340:Preparing replicator with J9 as a reference
+01-18 21:53:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 106:getting a list of all footprints on board
+01-18 21:53:32 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 364:source anchor footprint is 'J9'
+Located on: ['H_bridge']
+With filenames: ['H_bridge.kicad_sch']
+With sheet_id:['H_bridge']
+01-18 21:53:32 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 371:Corresponding footprints are 
+[('J18', ['H_bridge6']), ('J17', ['H_bridge5']), ('J16', ['H_bridge4']), ('J15', ['H_bridge3']), ('J14', ['H_bridge2']), ('J13', ['H_bridge1']), ('J9', ['H_bridge'])]
+01-18 21:53:32 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 383:Showing dialog
+01-18 21:53:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 344:constructing a list of sheets suitable for replication on level:'H_bridge', file:'H_bridge.kicad_sch'
+01-18 21:53:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 381:suitable sheets are:[['H_bridge1'], ['H_bridge2'], ['H_bridge3'], ['H_bridge4'], ['H_bridge5'], ['H_bridge6']]
+01-18 21:53:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1112:Level selected: ['H_bridge']
+01-18 21:53:32 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 389:Toolbar position: wx.Point(5083, 80)
+01-18 21:53:32 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 395:Dialog position: wx.Point(4719, 80)
+01-18 21:53:40 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 241:User canceled the dialog
