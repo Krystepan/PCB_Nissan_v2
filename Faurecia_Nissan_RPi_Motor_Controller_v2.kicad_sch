@@ -3284,6 +3284,15 @@
     (path "/a8d05f69-28a9-4e3d-be0b-fc1d9fd6757d/014a1812-17ba-4031-b0b3-c634f0c82c82"
       (reference "R110") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
+    (path "/102da5fa-e932-42d4-bf2e-57db71878d93/d2c6964b-7112-456f-951a-7ab4c018aaa8"
+      (reference "R111") (unit 1) (value "8mR") (footprint "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder")
+    )
+    (path "/102da5fa-e932-42d4-bf2e-57db71878d93/29bf37ed-ef8e-401b-a2cb-3b034813948b"
+      (reference "R112") (unit 1) (value "8mR") (footprint "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder")
+    )
+    (path "/102da5fa-e932-42d4-bf2e-57db71878d93/a67c640c-0fd4-4a50-8aab-1b4929ef4ac2"
+      (reference "R113") (unit 1) (value "8mR") (footprint "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder")
+    )
     (path "/38e99149-7f23-435a-9f53-f897e03d73ea/cbf92337-eca9-42d5-bcb6-22b633157875"
       (reference "SW1") (unit 1) (value "SW_SPST") (footprint "")
     )
@@ -3684,7 +3693,7 @@
       (reference "U30") (unit 1) (value "IR2104") (footprint "_IntegratedCircuits:IR2104")
     )
     (path "/5e4536d0-f9b9-4757-87ba-9a076d2bf9bf/2a1320fd-2e4c-432c-9674-17afef003859"
-      (reference "U31") (unit 1) (value "EL817") (footprint "Package_DIP:DIP-4_W7.62mm")
+      (reference "U31") (unit 1) (value "EL817") (footprint "Package_DIP:DIP-4_W8.89mm_SMDSocket_LongPads")
     )
     (path "/a6bd1fec-035b-49f2-ac5e-f3fbc5a7dbdd/47dccbd2-ed61-4dc7-8040-b3c1cf36e0dd"
       (reference "U32") (unit 1) (value "ADS1115") (footprint "_Modules:ADS1115")

@@ -2198,7 +2198,7 @@
     (uuid 2a1320fd-2e4c-432c-9674-17afef003859)
     (property "Reference" "U31" (id 0) (at 60.96 100.33 0))
     (property "Value" "EL817" (id 1) (at 60.96 102.87 0))
-    (property "Footprint" "Package_DIP:DIP-4_W7.62mm" (id 2) (at 55.88 114.3 0)
+    (property "Footprint" "Package_DIP:DIP-4_W8.89mm_SMDSocket_LongPads" (id 2) (at 55.88 114.3 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
     (property "Datasheet" "http://www.everlight.com/file/ProductFile/EL817.pdf" (id 3) (at 60.96 109.22 0)
