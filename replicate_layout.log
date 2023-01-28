@@ -1,95 +1,92 @@
-01-23 10:01:16 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 312:Plugin executed on: 'win32'
-01-23 10:01:16 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 313:Plugin executed with python version: '3.9.10 (main, Apr 30 2022, 01:39:58) [MSC v.1929 64 bit (AMD64)]'
-01-23 10:01:16 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 314:KiCad build version: (6.0.5)
-01-23 10:01:16 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 315:Plugin version: 1.2.2
-01-23 10:01:16 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 316:Frame repr: <wx._core.Frame object at 0x00000297B0F2ED30>
-01-23 10:01:16 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 340:Preparing replicator with T11 as a reference
-01-23 10:01:16 com_github_MitjaNemec_ReplicateLayout.replicate_layout 106:getting a list of all footprints on board
-01-23 10:01:16 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 364:source anchor footprint is 'T11'
-Located on: ['H_bridge2']
+01-28 15:44:51 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 312:Plugin executed on: 'win32'
+01-28 15:44:51 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 313:Plugin executed with python version: '3.9.10 (main, Apr 30 2022, 01:39:58) [MSC v.1929 64 bit (AMD64)]'
+01-28 15:44:51 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 314:KiCad build version: (6.0.5)
+01-28 15:44:51 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 315:Plugin version: 1.2.2
+01-28 15:44:51 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 316:Frame repr: <wx._core.Frame object at 0x00000212617EA4C0>
+01-28 15:44:51 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 340:Preparing replicator with T3 as a reference
+01-28 15:44:51 com_github_MitjaNemec_ReplicateLayout.replicate_layout 106:getting a list of all footprints on board
+01-28 15:44:51 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 364:source anchor footprint is 'T3'
+Located on: ['H_bridge']
 With filenames: ['H_bridge.kicad_sch']
-With sheet_id:['H_bridge2']
-01-23 10:01:16 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 371:Corresponding footprints are 
-[('T27', ['H_bridge6']), ('T7', ['H_bridge1']), ('T15', ['H_bridge3']), ('T11', ['H_bridge2']), ('T3', ['H_bridge']), ('T19', ['H_bridge4']), ('T23', ['H_bridge5'])]
-01-23 10:01:16 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 383:Showing dialog
-01-23 10:01:16 com_github_MitjaNemec_ReplicateLayout.replicate_layout 344:constructing a list of sheets suitable for replication on level:'H_bridge2', file:'H_bridge.kicad_sch'
-01-23 10:01:16 com_github_MitjaNemec_ReplicateLayout.replicate_layout 381:suitable sheets are:[['H_bridge'], ['H_bridge1'], ['H_bridge3'], ['H_bridge4'], ['H_bridge5'], ['H_bridge6']]
-01-23 10:01:17 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1112:Level selected: ['H_bridge2']
-01-23 10:01:17 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 389:Toolbar position: wx.Point(5083, 80)
-01-23 10:01:17 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 395:Dialog position: wx.Point(4719, 80)
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 344:constructing a list of sheets suitable for replication on level:'H_bridge2', file:'H_bridge.kicad_sch'
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 381:suitable sheets are:[['H_bridge'], ['H_bridge1'], ['H_bridge3'], ['H_bridge4'], ['H_bridge5'], ['H_bridge6']]
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 170:Replicating layout
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 154:Starting replication of sheets: [['H_bridge'], ['H_bridge1'], ['H_bridge3'], ['H_bridge4'], ['H_bridge5'], ['H_bridge6']]
-on level: ['H_bridge2']
+With sheet_id:['H_bridge']
+01-28 15:44:51 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 371:Corresponding footprints are 
+[('T19', ['H_bridge4']), ('T27', ['H_bridge6']), ('T23', ['H_bridge5']), ('T15', ['H_bridge3']), ('T3', ['H_bridge']), ('T7', ['H_bridge1']), ('T11', ['H_bridge2'])]
+01-28 15:44:51 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 383:Showing dialog
+01-28 15:44:51 com_github_MitjaNemec_ReplicateLayout.replicate_layout 344:constructing a list of sheets suitable for replication on level:'H_bridge', file:'H_bridge.kicad_sch'
+01-28 15:44:51 com_github_MitjaNemec_ReplicateLayout.replicate_layout 381:suitable sheets are:[['H_bridge1'], ['H_bridge2'], ['H_bridge3'], ['H_bridge4'], ['H_bridge5'], ['H_bridge6']]
+01-28 15:44:51 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1112:Level selected: ['H_bridge']
+01-28 15:44:52 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 389:Toolbar position: wx.Point(2338, 117)
+01-28 15:44:52 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 395:Dialog position: wx.Point(1974, 117)
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 344:constructing a list of sheets suitable for replication on level:'H_bridge', file:'H_bridge.kicad_sch'
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 381:suitable sheets are:[['H_bridge1'], ['H_bridge2'], ['H_bridge3'], ['H_bridge4'], ['H_bridge5'], ['H_bridge6']]
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 170:Replicating layout
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 154:Starting replication of sheets: [['H_bridge1'], ['H_bridge2'], ['H_bridge3'], ['H_bridge4'], ['H_bridge5'], ['H_bridge6']]
+on level: ['H_bridge']
 with tracks=True, zone=True, text=True, text=True, containing=True, remove=False, locked footprints=False, by_group=False
-01-23 10:01:22 root 252:updating GUI message: 'Preparing for replication'
-01-23 10:01:22 root 257:updating GUI with: 0
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 224:Getting the list of source footprints
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 239:Getting the list of all the remaining footprints
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 244:Getting nets local to source footprints
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 247:Getting source bounding box
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 251:Getting source tracks
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 266:Getting source zones
-01-23 10:01:22 root 257:updating GUI with: 62
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 275:Getting source text items
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 284:Getting source drawing items
-01-23 10:01:22 root 252:updating GUI message: 'Replicating footprints'
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 678:Replicating footprints
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 684:Replicating footprints on sheet ['H_bridge']
-01-23 10:01:22 root 257:updating GUI with: 3
-01-23 10:01:22 root 257:updating GUI with: 9
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 684:Replicating footprints on sheet ['H_bridge1']
-01-23 10:01:22 root 257:updating GUI with: 28
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 684:Replicating footprints on sheet ['H_bridge3']
-01-23 10:01:22 root 257:updating GUI with: 38
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 684:Replicating footprints on sheet ['H_bridge4']
-01-23 10:01:22 root 257:updating GUI with: 56
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 684:Replicating footprints on sheet ['H_bridge5']
-01-23 10:01:22 root 257:updating GUI with: 76
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 684:Replicating footprints on sheet ['H_bridge6']
-01-23 10:01:22 root 257:updating GUI with: 95
-01-23 10:01:22 root 252:updating GUI message: 'Replicating tracks'
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 844:Replicating tracks
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 850:Replicating tracks on sheet ['H_bridge']
-01-23 10:01:22 root 257:updating GUI with: 0
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 850:Replicating tracks on sheet ['H_bridge1']
-01-23 10:01:22 root 257:updating GUI with: 16
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 850:Replicating tracks on sheet ['H_bridge3']
-01-23 10:01:22 root 257:updating GUI with: 48
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 850:Replicating tracks on sheet ['H_bridge4']
-01-23 10:01:22 root 257:updating GUI with: 54
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 850:Replicating tracks on sheet ['H_bridge5']
-01-23 10:01:22 root 257:updating GUI with: 78
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 850:Replicating tracks on sheet ['H_bridge6']
-01-23 10:01:22 root 257:updating GUI with: 91
-01-23 10:01:22 root 257:updating GUI with: 94
-01-23 10:01:22 root 252:updating GUI message: 'Replicating zones'
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 909:Replicating zones
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 916:Replicating zones on sheet ['H_bridge']
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 916:Replicating zones on sheet ['H_bridge1']
-01-23 10:01:22 root 257:updating GUI with: 25
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 916:Replicating zones on sheet ['H_bridge3']
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 916:Replicating zones on sheet ['H_bridge4']
-01-23 10:01:22 root 257:updating GUI with: 66
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 916:Replicating zones on sheet ['H_bridge5']
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 916:Replicating zones on sheet ['H_bridge6']
-01-23 10:01:22 root 252:updating GUI message: 'Replicating text'
-01-23 10:01:22 root 257:updating GUI with: 0
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Replicating text
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 992:Replicating text on sheet ['H_bridge']
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 992:Replicating text on sheet ['H_bridge1']
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 992:Replicating text on sheet ['H_bridge3']
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 992:Replicating text on sheet ['H_bridge4']
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 992:Replicating text on sheet ['H_bridge5']
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 992:Replicating text on sheet ['H_bridge6']
-01-23 10:01:22 root 252:updating GUI message: 'Replicating drawings'
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1032:Replicating drawings
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1038:Replicating drawings on sheet ['H_bridge']
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1038:Replicating drawings on sheet ['H_bridge1']
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1038:Replicating drawings on sheet ['H_bridge3']
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1038:Replicating drawings on sheet ['H_bridge4']
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1038:Replicating drawings on sheet ['H_bridge5']
-01-23 10:01:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1038:Replicating drawings on sheet ['H_bridge6']
-01-23 10:01:22 root 252:updating GUI message: 'Removing duplicates'
-01-23 10:01:24 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 190:Replication complete
+01-28 15:45:03 root 252:updating GUI message: 'Preparing for replication'
+01-28 15:45:03 root 257:updating GUI with: 0
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 224:Getting the list of source footprints
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 239:Getting the list of all the remaining footprints
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 244:Getting nets local to source footprints
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 247:Getting source bounding box
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 251:Getting source tracks
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 266:Getting source zones
+01-28 15:45:03 root 257:updating GUI with: 62
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 275:Getting source text items
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 284:Getting source drawing items
+01-28 15:45:03 root 252:updating GUI message: 'Replicating footprints'
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 678:Replicating footprints
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 684:Replicating footprints on sheet ['H_bridge1']
+01-28 15:45:03 root 257:updating GUI with: 14
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 684:Replicating footprints on sheet ['H_bridge2']
+01-28 15:45:03 root 257:updating GUI with: 33
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 684:Replicating footprints on sheet ['H_bridge3']
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 684:Replicating footprints on sheet ['H_bridge4']
+01-28 15:45:03 root 257:updating GUI with: 51
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 684:Replicating footprints on sheet ['H_bridge5']
+01-28 15:45:03 root 257:updating GUI with: 70
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 684:Replicating footprints on sheet ['H_bridge6']
+01-28 15:45:03 root 257:updating GUI with: 88
+01-28 15:45:03 root 252:updating GUI message: 'Replicating tracks'
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 844:Replicating tracks
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 850:Replicating tracks on sheet ['H_bridge1']
+01-28 15:45:03 root 257:updating GUI with: 2
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 850:Replicating tracks on sheet ['H_bridge2']
+01-28 15:45:03 root 257:updating GUI with: 30
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 850:Replicating tracks on sheet ['H_bridge3']
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 850:Replicating tracks on sheet ['H_bridge4']
+01-28 15:45:03 root 257:updating GUI with: 50
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 850:Replicating tracks on sheet ['H_bridge5']
+01-28 15:45:03 root 257:updating GUI with: 76
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 850:Replicating tracks on sheet ['H_bridge6']
+01-28 15:45:03 root 252:updating GUI message: 'Replicating zones'
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 909:Replicating zones
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 916:Replicating zones on sheet ['H_bridge1']
+01-28 15:45:03 root 257:updating GUI with: 8
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 916:Replicating zones on sheet ['H_bridge2']
+01-28 15:45:03 root 257:updating GUI with: 33
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 916:Replicating zones on sheet ['H_bridge3']
+01-28 15:45:03 root 257:updating GUI with: 50
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 916:Replicating zones on sheet ['H_bridge4']
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 916:Replicating zones on sheet ['H_bridge5']
+01-28 15:45:03 root 257:updating GUI with: 75
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 916:Replicating zones on sheet ['H_bridge6']
+01-28 15:45:03 root 257:updating GUI with: 100
+01-28 15:45:03 root 252:updating GUI message: 'Replicating text'
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Replicating text
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 992:Replicating text on sheet ['H_bridge1']
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 992:Replicating text on sheet ['H_bridge2']
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 992:Replicating text on sheet ['H_bridge3']
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 992:Replicating text on sheet ['H_bridge4']
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 992:Replicating text on sheet ['H_bridge5']
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 992:Replicating text on sheet ['H_bridge6']
+01-28 15:45:03 root 252:updating GUI message: 'Replicating drawings'
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1032:Replicating drawings
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1038:Replicating drawings on sheet ['H_bridge1']
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1038:Replicating drawings on sheet ['H_bridge2']
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1038:Replicating drawings on sheet ['H_bridge3']
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1038:Replicating drawings on sheet ['H_bridge4']
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1038:Replicating drawings on sheet ['H_bridge5']
+01-28 15:45:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1038:Replicating drawings on sheet ['H_bridge6']
+01-28 15:45:03 root 252:updating GUI message: 'Removing duplicates'
+01-28 15:45:04 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 190:Replication complete
