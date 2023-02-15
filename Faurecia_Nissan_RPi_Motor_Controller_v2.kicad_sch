@@ -2738,10 +2738,10 @@
       (reference "C77") (unit 1) (value "22p") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/93c7d18c-2da4-4e2c-b76a-a353b5009e36/0793195b-672d-401b-b76d-e42f35625ef9"
-      (reference "C78") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+      (reference "C78") (unit 1) (value "22p") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/93c7d18c-2da4-4e2c-b76a-a353b5009e36/94c639e7-3e68-4db3-8ba6-643e94161d5b"
-      (reference "C79") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+      (reference "C79") (unit 1) (value "22p") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/93c7d18c-2da4-4e2c-b76a-a353b5009e36/8bd27fea-87fe-4212-a38d-f3e03610e945"
       (reference "C80") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
