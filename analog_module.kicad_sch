@@ -152,7 +152,7 @@
         )
       )
     )
-    (symbol "Switch:SW_SPST" (pin_numbers hide) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (symbol "Switch:SW_SPST" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
       (property "Reference" "SW" (id 0) (at 0 3.175 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -361,6 +361,7 @@
       )
     )
   )
+
 
   (junction (at 96.52 93.98) (diameter 0) (color 0 0 0 0)
     (uuid 062d372b-57c1-4a89-a61e-e0397109585d)
