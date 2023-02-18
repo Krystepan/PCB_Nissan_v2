@@ -3004,6 +3004,18 @@
     (path "/d163f1e1-cf81-409b-aa65-f23a7881c08b/8e46b31a-e39f-47df-8941-739fd16aa39f"
       (reference "D78") (unit 1) (value "UCLAMP3301D.TCT") (footprint "_Diodes:UCLAMP3301D.TCT")
     )
+    (path "/5e4536d0-f9b9-4757-87ba-9a076d2bf9bf/d364fdf7-0000-4024-82bc-8195f4e24061"
+      (reference "D75") (unit 1) (value "B330") (footprint "Diode_SMD:D_SMA_Handsoldering")
+    )
+    (path "/5e4536d0-f9b9-4757-87ba-9a076d2bf9bf/c78b4746-9265-4746-8189-596324b56321"
+      (reference "D76") (unit 1) (value "UCLAMP3301D.TCT") (footprint "_Diodes:UCLAMP3301D.TCT")
+    )
+    (path "/d163f1e1-cf81-409b-aa65-f23a7881c08b/94f499e4-60d5-4a38-bed4-cebf0e761184"
+      (reference "D77") (unit 1) (value "UCLAMP3301D.TCT") (footprint "_Diodes:UCLAMP3301D.TCT")
+    )
+    (path "/d163f1e1-cf81-409b-aa65-f23a7881c08b/8e46b31a-e39f-47df-8941-739fd16aa39f"
+      (reference "D78") (unit 1) (value "UCLAMP3301D.TCT") (footprint "_Diodes:UCLAMP3301D.TCT")
+    )
     (path "/38e99149-7f23-435a-9f53-f897e03d73ea/cd32f8ba-d76c-4cb6-b2d1-3d63b3673d45"
       (reference "D79") (unit 1) (value "SMAJ18CA") (footprint "Diode_THT:D_DO-201AE_P15.24mm_Horizontal")
     )
@@ -3061,6 +3073,9 @@
     (path "/d163f1e1-cf81-409b-aa65-f23a7881c08b/20be5fe1-a28f-4190-ad20-41ae07a95deb"
       (reference "D97") (unit 1) (value "UCLAMP3301D.TCT") (footprint "_Diodes:UCLAMP3301D.TCT")
     )
+    (path "/d163f1e1-cf81-409b-aa65-f23a7881c08b/20be5fe1-a28f-4190-ad20-41ae07a95deb"
+      (reference "D97") (unit 1) (value "UCLAMP3301D.TCT") (footprint "_Diodes:UCLAMP3301D.TCT")
+    )
     (path "/bba2504d-5d75-42b4-afa4-2844a3a05bdb/e9e53290-e350-4ab7-9433-82f851803d63"
       (reference "D98") (unit 1) (value "AOZ8211") (footprint "_Diodes:AOZ8211")
     )
@@ -3077,7 +3092,11 @@
       (reference "D102") (unit 1) (value "UCLAMP3301D.TCT") (footprint "_Diodes:UCLAMP3301D.TCT")
     )
     (path "/4b2c483c-91d5-4f30-b465-e0f64673a05a/cd32f8ba-d76c-4cb6-b2d1-3d63b3673d45"
+<<<<<<< Updated upstream
       (reference "D103") (unit 1) (value "SMAJ18CA") (footprint "Diode_THT:D_DO-201AE_P15.24mm_Horizontal")
+=======
+      (reference "D103") (unit 1) (value "SMAJ18CA") (footprint "Diode_SMD:D_SMA_Handsoldering")
+>>>>>>> Stashed changes
     )
     (path "/f0e78aab-f109-400d-9814-c7c8a8e5aea1/0fe3e714-8166-43bb-90cc-9b3db3e6e398"
       (reference "D104") (unit 1) (value "UCLAMP3301D.TCT") (footprint "_Diodes:UCLAMP3301D.TCT")
@@ -4238,10 +4257,17 @@
       (reference "U30") (unit 1) (value "IR2104") (footprint "_IntegratedCircuits:IR2104")
     )
     (path "/5e4536d0-f9b9-4757-87ba-9a076d2bf9bf/bffa6f99-d349-48fa-b419-a311d29eac04"
+<<<<<<< Updated upstream
       (reference "U31") (unit 1) (value "AP331A") (footprint "")
     )
     (path "/5e4536d0-f9b9-4757-87ba-9a076d2bf9bf/7e723dc6-9ac3-426f-b0dc-2067de691de8"
       (reference "U31") (unit 2) (value "AP331A") (footprint "")
+=======
+      (reference "U31") (unit 1) (value "AP331A") (footprint "_IntegratedCircuits:AP331A")
+    )
+    (path "/5e4536d0-f9b9-4757-87ba-9a076d2bf9bf/7e723dc6-9ac3-426f-b0dc-2067de691de8"
+      (reference "U31") (unit 2) (value "AP331A") (footprint "_IntegratedCircuits:AP331A")
+>>>>>>> Stashed changes
     )
     (path "/a6bd1fec-035b-49f2-ac5e-f3fbc5a7dbdd/47dccbd2-ed61-4dc7-8040-b3c1cf36e0dd"
       (reference "U32") (unit 1) (value "ADS1115") (footprint "_Modules:ADS1115")
