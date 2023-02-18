@@ -1,29 +1,36 @@
-6696804496836
-_Diodes
-AOZ8211
+8383689743743
+_Others
+CSTNE8M00G520000R0
 
 
 0
-2
-2
-_Diodes
-SM2T3V3A
+3
+3
+_Others
+HDIM010DUF8P5
 
 
 0
-2
-2
-_Diodes
-STTH1502D_Angle
+6
+6
+_Others
+LFXTAL026380
+SMD Crystal SERIES SMD7050/4 https://www.foxonline.com/pdfs/FQ7050.pdf, 7.0x5.0mm^2 package
+SMD SMT crystal
+0
+4
+4
+_Others
+MountingHole_3.2mm_M3_Pad_Via
+Mounting Hole 3.2mm, M3
+mounting hole 3.2mm m3
+0
+9
+0
+_Others
+Pipe_holder
 
 
 0
-2
-2
-_Diodes
-UCLAMP3301D.TCT
-SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf
-SOD-323F
 0
-2
-2
+0
