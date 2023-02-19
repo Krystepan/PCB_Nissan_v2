@@ -1948,6 +1948,9 @@
     (path "/5e4536d0-f9b9-4757-87ba-9a076d2bf9bf/2f31224b-a322-4c22-8718-962061041e54"
       (reference "#PWR028") (unit 1) (value "GND") (footprint "")
     )
+    (path "/5e4536d0-f9b9-4757-87ba-9a076d2bf9bf/3c7ff4b3-c17e-40ca-b517-01be281a3178"
+      (reference "#PWR029") (unit 1) (value "+3.3V") (footprint "")
+    )
     (path "/93c7d18c-2da4-4e2c-b76a-a353b5009e36/7b96c078-91aa-41b5-b5d4-16f8dd88193c"
       (reference "#PWR030") (unit 1) (value "GND") (footprint "")
     )
@@ -3781,9 +3784,6 @@
     (path "/4b2c483c-91d5-4f30-b465-e0f64673a05a/983da8e3-b961-4737-88ec-d98a84e56b1a"
       (reference "T30") (unit 1) (value "AOD4132") (footprint "_Transistors:AOD4132")
     )
-    (path "/5e4536d0-f9b9-4757-87ba-9a076d2bf9bf/196d8545-88f7-40a3-8bd5-35b2eaebb728"
-      (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm")
-    )
     (path "/38e99149-7f23-435a-9f53-f897e03d73ea/08a69829-5185-48d8-adce-c63ccca57584"
       (reference "TP2") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm")
     )
@@ -3921,9 +3921,6 @@
     )
     (path "/e28bd46d-84d4-467f-af2d-8a029e8c0db3/7fc9ba77-e26f-4db5-b1ab-4afed8a896ba"
       (reference "TP47") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm")
-    )
-    (path "/5e4536d0-f9b9-4757-87ba-9a076d2bf9bf/8b69cb5b-5fd1-4942-9fac-ff2eb293215c"
-      (reference "TP48") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm")
     )
     (path "/93c7d18c-2da4-4e2c-b76a-a353b5009e36/51f94fd0-8912-42cb-bda3-a4946bf58ee3"
       (reference "TP49") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm")
@@ -4074,6 +4071,18 @@
     )
     (path "/4b2c483c-91d5-4f30-b465-e0f64673a05a/10107530-4abe-452f-98f5-a6850c5abbf5"
       (reference "TP98") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm")
+    )
+    (path "/5e4536d0-f9b9-4757-87ba-9a076d2bf9bf/457e1d97-6008-4320-bb43-44e76b4a8c06"
+      (reference "TP99") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm")
+    )
+    (path "/5e4536d0-f9b9-4757-87ba-9a076d2bf9bf/912e4c4f-217c-486c-a764-3bc681e9d98a"
+      (reference "TP100") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm")
+    )
+    (path "/5e4536d0-f9b9-4757-87ba-9a076d2bf9bf/b2ae834a-2472-4fdb-86ab-ceef8384606c"
+      (reference "TP103") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm")
+    )
+    (path "/5e4536d0-f9b9-4757-87ba-9a076d2bf9bf/f084528c-5bb8-4b24-836d-b6822e306021"
+      (reference "TP105") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm")
     )
     (path "/38e99149-7f23-435a-9f53-f897e03d73ea/52e4dd23-d093-4f6e-abb4-54568cfaf3bf"
       (reference "U1") (unit 1) (value "IR2104") (footprint "_IntegratedCircuits:IR2104")
